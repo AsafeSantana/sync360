@@ -1,6 +1,6 @@
 <h2>Projeto de Página Web Dinâmica Teste Técnico Sync360.</h2>
 
-Este é um projeto de página web dinâmica que utiliza tecnologias como HTML, CSS, JavaScript, AJAX, PHP e MySQL para criar uma experiência interativa. O projeto inclui um formulário HTML para coletar dados dos usuários, estilização CSS para melhorar a apresentação visual e JavaScript para tornar a página mais dinâmica. Os dados inseridos no formulário são enviados para um servidor PHP por meio de AJAX e, em seguida, são armazenados em um banco de dados MySQL.
+Este é um projeto de página web dinâmica que utiliza tecnologias como HTML, CSS, Bootstrap, JavaScript, AJAX, PHP e MySQL para criar uma experiência interativa. O projeto inclui um formulário HTML para coletar dados dos usuários, estilização CSS para melhorar a apresentação visual e JavaScript para tornar a página mais dinâmica. Os dados inseridos no formulário são enviados para um servidor PHP por meio de AJAX e, em seguida, são armazenados em um banco de dados MySQL.
 
 <h3>Tecnologias Utilizadas</h3>
 
